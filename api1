@@ -148,5 +148,15 @@
         "url": "https://raw.githubusercontent.com/LordLopez666/fav-dog/main/IMG_0152.JPG?raw=true",
         "id": "30",
         "isFavorite": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LordLopez666/api-img4/main/homepage.jpg?raw=true",
+        "id": "31",
+        "isFavorite": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LordLopez666/api-img6/main/benhodges.jpg?raw=true",
+        "id": "32",
+        "isFavorite": false
     }
 ]
