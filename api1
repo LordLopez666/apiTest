@@ -135,7 +135,7 @@
         "isFavorite": false
     },
     {
-        "url": "https://github.com/LordLopez666/api-img3/blob/main/151-4288x3216.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/LordLopez666/api-img3/blob/main/151-4288x3216.jpg?raw=true",
         "id": "28",
         "isFavorite": false
     },
@@ -145,7 +145,7 @@
         "isFavorite": false
     },
     {
-        "url": "https://github.com/LordLopez666/fav-dog/blob/main/IMG_0152.JPG?raw=true",
+        "url": "https://raw.githubusercontent.com/LordLopez666/fav-dog/main/IMG_0152.JPG?raw=true",
         "id": "30",
         "isFavorite": false
     }
