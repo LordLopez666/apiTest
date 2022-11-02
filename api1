@@ -128,5 +128,25 @@
         "url": "https://raw.githubusercontent.com/LordLopez666/coolbg/main/backgroundstuff2.png?raw=true",
         "id": "26",
         "isFavorite": false
-    }
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LordLopez666/api-img1/main/1000-5626x3635.jpg?raw=true",
+        "id": "27",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/LordLopez666/api-img3/blob/main/151-4288x3216.jpg?raw=true",
+        "id": "28",
+        "isFavorite": false
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LordLopez666/api-img2/main/1-5616x3744.jpg?raw=true",
+        "id": "29",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/LordLopez666/fav-dog/blob/main/IMG_0152.JPG?raw=true",
+        "id": "30",
+        "isFavorite": false
+    },
 ]
